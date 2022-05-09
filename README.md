@@ -17,6 +17,8 @@ All of my solutions is written in MySQL.
 - [Case Study #7 - Balanced Tree Clothing Co.](#case-study-7---balanced-tree-clothing-co)
 - [Case Study #8 - Fresh Segments](#case-study-8---fresh-segments)
 
+&nbsp;
+
 ## Case Study #1 - Danny's Diner
 
 <img src="https://8weeksqlchallenge.com/images/case-study-designs/1.png" width="300" height="300">
